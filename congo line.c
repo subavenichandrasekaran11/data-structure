@@ -68,23 +68,4 @@ int main(){
     }
 }
 }
-/*
-output:
-***********congo line*********
-1.addname
-2.display 
-3.exit
-enter the choice:1
-enter the name:java
-enter the choice:1
-enter the name:c
-c added to the playlist
-enter the choice:1
-enter the name:python
-python added to the playlist
-enter the choice:2
-python->c->java->NULL
-enter the choice:3
-exiting line...
-  */
 
